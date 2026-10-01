@@ -1,0 +1,11 @@
+# Android / Gradle
+.gradle/
+build/
+/local.properties
+/.idea/
+*.iml
+.DS_Store
+/captures/
+
+# Binary wrapper jar is self-bootstrapped by gradlew / CI on first run
+gradle/wrapper/gradle-wrapper.jar
